@@ -1,0 +1,14 @@
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\bin\Debug\netcoreapp2.2\NewsLetterApp.deps.json
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\bin\Debug\netcoreapp2.2\NewsLetterApp.runtimeconfig.json
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\bin\Debug\netcoreapp2.2\NewsLetterApp.runtimeconfig.dev.json
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\bin\Debug\netcoreapp2.2\NewsLetterApp.dll
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\obj\Debug\netcoreapp2.2\NewsLetterApp.csprojAssemblyReference.cache
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\obj\Debug\netcoreapp2.2\NewsLetterApp.csproj.CoreCompileInputs.cache
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\obj\Debug\netcoreapp2.2\NewsLetterApp.RazorAssemblyInfo.cache
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\obj\Debug\netcoreapp2.2\NewsLetterApp.RazorAssemblyInfo.cs
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\obj\Debug\netcoreapp2.2\NewsLetterApp.AssemblyInfoInputs.cache
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\obj\Debug\netcoreapp2.2\NewsLetterApp.AssemblyInfo.cs
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\obj\Debug\netcoreapp2.2\NewsLetterApp.RazorTargetAssemblyInfo.cache
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\bin\Debug\netcoreapp2.2\NewsLetterApp.pdb
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\obj\Debug\netcoreapp2.2\NewsLetterApp.dll
+C:\Users\rakibul.hasan\Source\Repos\NewsLetterApp\NewsLetterApp\obj\Debug\netcoreapp2.2\NewsLetterApp.pdb
